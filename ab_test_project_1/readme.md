@@ -26,3 +26,12 @@
 
 ## Задача проекта
 приоритизировать гипотезы, а также проанализировать результаты A/B-теста
+
+
+## Используемые библиотеки
+* pandas
+* numpy
+* scipy.stats
+* matplotlib.pyplot
+* pandas.plotting.register_matplotlib_converters
+* warnings
